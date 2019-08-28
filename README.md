@@ -19,7 +19,7 @@ Deve ser feito uma API Restful, que permitirá:
 
 Quando o usuário solicitar um cartão, deve ter uma aprovação automática do sistema, que sua regra será:
 
-Deverá ser criada uma rotina que verificará se a pontuação do usuário, que deve ser uma rotina que devolva uma pontuação **aleatória** de entre 1 a 999, que deverá ser utilizado como score de crédito do usuário.
+Deverá ser criada uma rotina que verificará a pontuação de crédito do usuário que será uma rotina que devolva uma pontuação **aleatória** entre 1 a 999, para ser utilizada como score de credito.
 
 Por exemplo:
 
