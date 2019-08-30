@@ -35,7 +35,7 @@ Sendo que, dependendo do score retornado a solicitação é aprovada ou não, ta
 | 1 a 299   | Reprovado                                      |
 | 300 a 599 | R$1000,00                                      |
 | 600 a 799 | 50% da renda informada, valor mínimo R$1000,00 |
-| 801 a 950 | 200% da renda informada                        |
+| 800 a 950 | 200% da renda informada                        |
 | 951 a 999 | Sem limites, considerar R$ 1.000.000           |
 
 No Front, deverá ser listado todas as solicitações, com a possibilidade da inclusão de uma nova solicitação e também possível excluir uma utilizando todos os verbos Rest disponíveis no Back.
